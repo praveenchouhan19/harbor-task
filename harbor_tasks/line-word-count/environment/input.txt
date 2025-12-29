@@ -1,0 +1,3 @@
+Hello world
+This is a Harbor task
+Line and word count example
